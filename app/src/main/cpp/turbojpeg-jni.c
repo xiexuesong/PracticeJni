@@ -1244,4 +1244,3 @@ JNIEXPORT void JNICALL Java_org_libjpegturbo_turbojpeg_TJDecompressor_destroy
 {
   Java_org_libjpegturbo_turbojpeg_TJCompressor_destroy(env, obj);
 }
-
